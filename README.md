@@ -1,2 +1,1 @@
-Logic is mine
-Styles are chat-GPT's
+<p>A password generator program made with react-jsx</p>
