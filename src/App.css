@@ -1,4 +1,4 @@
-/* General page styles */
+
 body {
   font-family: 'Arial', sans-serif;
   background-color: #f4f4f9;
@@ -14,7 +14,7 @@ body {
   background-color: pink;
 }
 
-/* Main container */
+
 .maindiv {
   display: flex;
   justify-content: center;
@@ -33,7 +33,6 @@ body {
   text-align: center;
 }
 
-/* Input container with copy button */
 .input-container {
   position: relative;
   margin-bottom: 20px;
@@ -67,7 +66,6 @@ body {
   background-color: #45a049;
 }
 
-/* Settings section styles */
 .settings {
   display: flex;
   flex-direction: column;
